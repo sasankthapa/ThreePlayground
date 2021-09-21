@@ -1,0 +1,20 @@
+{
+  "name": "threeplayground",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.132.2",
+    "vue": "^3.2.6"
+  },
+  "devDependencies": {
+    "@types/three": "^0.131.1",
+    "@types/vue": "^2.0.0",
+    "@vitejs/plugin-vue": "^1.6.1",
+    "@vue/compiler-sfc": "^3.2.6",
+    "vite": "^2.5.4"
+  }
+}
